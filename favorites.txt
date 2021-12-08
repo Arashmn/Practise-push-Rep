@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 1)khoresht Ghorme sabzi
 2)Spategi (Makarani)
 3)Khoresht Ghaime
 4)Kofte 
+=======
+1)island shutterland
+2)Lost
+3)GoodFather
+>>>>>>> movies
